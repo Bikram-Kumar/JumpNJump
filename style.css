@@ -1,0 +1,38 @@
+canvas {
+ margin: 0;
+ background-color: skyBlue;
+ }
+ #gameName{
+ position: fixed;
+ color: red;
+ }
+ #gameOver{
+ position: fixed;
+ color: wheat;
+ display: none;
+ }
+ 
+ 
+#startBtn {
+color: orange;
+ position: fixed;
+}
+#retryBtn {
+color: orange;
+ display: none;
+ position: fixed;
+}
+
+#scrDisplay {
+color: orange;
+ display: none;
+ position: fixed;
+}
+audio{
+display: none;
+}
+img {
+ display: none;
+}
+
+
